@@ -18,7 +18,7 @@ import java.nio.charset.Charset;
 import java.util.ArrayList;
 
 /**
- * Created by Jeet on 03-01-2017.
+ * Created by ata6fd on 11-17-2017.
  */
 
 public class newsloader extends AsyncTaskLoader<ArrayList<supplyclass>> {
